@@ -1,2 +1,2 @@
 # subdomain_find
-python2 subdomain_find.py
+python2/3 subdomain_find.py
